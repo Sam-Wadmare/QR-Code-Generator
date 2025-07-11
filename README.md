@@ -27,3 +27,6 @@ Both files will appear in your project directory.
 inquirer
 qr-image
 fs (built-in Node.js module)
+
++ Future Improvements
+This terminal-based app can be enhanced by creating a web version with a user-friendly interface, allowing users to generate and download QR codes directly from their browser.
