@@ -15,17 +15,12 @@ cd qr-code-terminal
 2. Install Dependencies
 npm install inquirer qr-image
 3. Run the App
-bash
-Copy
-Edit
 node solution.js
+
 -Output
 After running, the app will:
-
 Create a qr_img.png (QR code image)
-
 Create a URL.txt containing the entered URL
-
 Both files will appear in your project directory.
 
 📦 Dependencies
